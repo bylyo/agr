@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [Dockerfile](#dockerfile)
 *   [TypeScript](#typescript)
 *   [Go](#go)
-*   [Rust](#rust)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
@@ -18,6 +18,12 @@
 *   [Java](#java)
 *   [CSS](#css)
 *   [C](#c-1)
+
+## Rust
+
+*   [Doraemonsan/BaiTTS-CLI-rs](https://github.com/Doraemonsan/BaiTTS-CLI-rs) - 使用 MultiTTS API 将文本文件转换为有声书音频，支持生成 LRC 歌词
+
+*   [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to easily configure your favorite Linux distribution as a router using the web UI
 
 ## JavaScript
 
@@ -55,8 +61,6 @@
 
 *   [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 
-*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
-
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 ## Go
@@ -73,10 +77,6 @@
 
 *   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
 
-## Rust
-
-*   [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to easily configure your favorite Linux distribution as a router using the web UI
-
 ## Python
 
 *   [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) - A cross-platform m3u8/mpd downloader based on PySide6 and QFluentWidgets.
@@ -88,6 +88,10 @@
 ## miscellaneous
 
 *   [IQAQI233/611Study.ICU](https://github.com/IQAQI233/611Study.ICU) - Nowadays, most of Chinese high school students are forced to study 611, from 6AM to 11PM 6 days a week. Sadly, lots of students suicided or got serious mental health problem. Inspired by project 996.icu, we decided to start 611study.icu project to call to stop this child abusing studying model and save students' lives and health.
+
+*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
+
+*   [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) - NapCat-Docker
 
 *   [Sudsier/BilibiliDownloader](https://github.com/Sudsier/BilibiliDownloader) - 哔哩哔哩下载器发布仓库
 
@@ -146,8 +150,6 @@
 ## Shell
 
 *   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) - NapCat-Docker
 
 *   [MXCCO/lxdpro](https://github.com/MXCCO/lxdpro) - 一个基于LXD开系统容器的LXC与虚拟机KVM脚本,开小鸡不求人,让合租VPS更加方便
 
