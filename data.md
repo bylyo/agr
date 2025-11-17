@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [Rust](#rust)
-*   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [Dockerfile](#dockerfile)
 *   [TypeScript](#typescript)
@@ -20,17 +20,9 @@
 *   [CSS](#css)
 *   [C](#c-1)
 
-## PowerShell
-
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-
-## Rust
-
-*   [Doraemonsan/BaiTTS-CLI-rs](https://github.com/Doraemonsan/BaiTTS-CLI-rs) - 使用 MultiTTS API 将文本文件转换为有声书音频，支持生成 LRC 歌词
-
-*   [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to easily configure your favorite Linux distribution as a router using the web UI
-
 ## JavaScript
+
+*   [iawooo/ctt](https://github.com/iawooo/ctt) - 这是一个基于Cloudflare实现的Telegram消息转发机器人，专注于将用户消息安全、高效地转发到后台群组每个用户独立群组中的分话题，直接话题中发送信息而无需再艾特回复，适用于客服、社区管理等场景。
 
 *   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
 
@@ -43,6 +35,16 @@
 *   [MatsuriDayo/plugins](https://github.com/MatsuriDayo/plugins) - Matsuri 插件仓库
 
 *   [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+
+## PowerShell
+
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+
+## Rust
+
+*   [Doraemonsan/BaiTTS-CLI-rs](https://github.com/Doraemonsan/BaiTTS-CLI-rs) - 使用 MultiTTS API 将文本文件转换为有声书音频，支持生成 LRC 歌词
+
+*   [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to easily configure your favorite Linux distribution as a router using the web UI
 
 ## Dart
 
