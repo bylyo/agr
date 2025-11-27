@@ -142,7 +142,7 @@
 
 *   [antfu/cpwp](https://github.com/antfu/cpwp) - Chinese Programmer Wrong Pronunciation
 
-*   [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的非官方 QQ Web 客户端、全平台客户端实现！
+*   [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！
 
 *   [zmh-program/web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.
 
