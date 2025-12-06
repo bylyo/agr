@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [Rust](#rust)
@@ -14,11 +15,16 @@
 *   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
-*   [C++](#c)
 *   [Shell](#shell)
 *   [Java](#java)
 *   [CSS](#css)
 *   [C](#c-1)
+
+## C++
+
+*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
+
+*   [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 
 ## JavaScript
 
@@ -147,10 +153,6 @@
 *   [zmh-program/web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.
 
 *   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
-
-## C++
-
-*   [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 
 ## Shell
 
