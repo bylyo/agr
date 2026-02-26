@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [C++](#c)
 *   [JavaScript](#javascript)
@@ -12,7 +13,6 @@
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
@@ -20,6 +20,24 @@
 *   [Vue](#vue)
 *   [CSS](#css)
 *   [C](#c-1)
+
+## miscellaneous
+
+*   [yogsec/Hacking-Tools](https://github.com/yogsec/Hacking-Tools) - A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.
+
+*   [IQAQI233/611Study.ICU](https://github.com/IQAQI233/611Study.ICU) - Nowadays, most of Chinese high school students are forced to study 611, from 6AM to 11PM 6 days a week. Sadly, lots of students suicided or got serious mental health problem. Inspired by project 996.icu, we decided to start 611study.icu project to call to stop this child abusing studying model and save students' lives and health.
+
+*   [Sudsier/BilibiliDownloader](https://github.com/Sudsier/BilibiliDownloader) - 哔哩哔哩下载器发布仓库
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
+
+*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
 ## Visual Basic .NET
 
@@ -106,22 +124,6 @@
 *   [rong6/ncm-downloader](https://github.com/rong6/ncm-downloader) - ✨网易云歌曲/歌单/专辑下载器。支持批量下载，支持下载歌手所有歌曲，支持对下载的音乐注入元数据。
 
 *   [z-mio/Alist-bot](https://github.com/z-mio/Alist-bot) - 一个基于Python3的Telegram Bot
-
-## miscellaneous
-
-*   [IQAQI233/611Study.ICU](https://github.com/IQAQI233/611Study.ICU) - Nowadays, most of Chinese high school students are forced to study 611, from 6AM to 11PM 6 days a week. Sadly, lots of students suicided or got serious mental health problem. Inspired by project 996.icu, we decided to start 611study.icu project to call to stop this child abusing studying model and save students' lives and health.
-
-*   [Sudsier/BilibiliDownloader](https://github.com/Sudsier/BilibiliDownloader) - 哔哩哔哩下载器发布仓库
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
-
-*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
 ## HTML
 
