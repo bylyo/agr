@@ -71,7 +71,7 @@
 
 *   [Doraemonsan/BaiTTS-CLI-rs](https://github.com/Doraemonsan/BaiTTS-CLI-rs) - 使用 MultiTTS API 将文本文件转换为有声书音频，支持生成 LRC 歌词
 
-*   [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to easily configure your favorite Linux distribution as a router using the web UI
+*   [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to make it easier to configure your favorite Linux distribution as a router. Built with Rust and eBPF.
 
 ## Dart
 
